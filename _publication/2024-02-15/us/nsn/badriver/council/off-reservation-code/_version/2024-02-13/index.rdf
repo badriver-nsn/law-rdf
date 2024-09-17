@@ -1,0 +1,2284 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="./_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-15</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-02-15//us/nsn/badriver/council/off-reservation-code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+CHAPTER 1 INTRODUCTION
+CHAPTER 2 GENERAL DEFINITIONS
+CHAPTER 3 GENERAL
+CHAPTER 4 ENFORCEMENT
+CHAPTER 5 WILD RICE HARVESTING REGULATIONS
+CHAPTER 6 DEER HARVESTING REGULATIONS
+CHAPTER 7 BEAR HARVESTING REGULATIONS
+CHAPTER 8 SMALL GAME HARVESTING REGULATIONS
+CHAPTER 9 FISH HARVESTING REGULATIONS
+CHAPTER 10 MIGRATORY BIRD HARVESTING REGULATIONS
+CHAPTER 11 [OPEN]
+CHAPTER 12 MISCELLANEOUS FOREST PRODUCT HARVESTING REGULATIONS
+CHAPTER 13 MISCELLANEOUS WILD ANIMAL HARVESTING REGULATIONS
+CHAPTER 14 BOATING SAFETY REGULATIONS
+CHAPTER 15 ELK HARVESTING REGULATIONS
+None
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-02-15/2024-02-13]: Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa</rdfs:label>
+    <oll:codifiedDate>2024-02-13</oll:codifiedDate>
+    <oll:docId>Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-02-15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1">
+    <oll:cite xml:lang="en">CHAPTER 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.01">
+    <oll:cite xml:lang="en">Section 1.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|1.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.02">
+    <oll:cite xml:lang="en">Section 1.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|1.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.03">
+    <oll:cite xml:lang="en">Section 1.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|1.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.04">
+    <oll:cite xml:lang="en">Section 1.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|1.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.05">
+    <oll:cite xml:lang="en">Section 1.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|1.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.06">
+    <oll:cite xml:lang="en">Section 1.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|1.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.07">
+    <oll:cite xml:lang="en">Section 1.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|1.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.08">
+    <oll:cite xml:lang="en">Section 1.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|1.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.09">
+    <oll:cite xml:lang="en">Section 1.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|1|1.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#1.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10">
+    <oll:cite xml:lang="en">CHAPTER 10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.01">
+    <oll:cite xml:lang="en">Section 10.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.02">
+    <oll:cite xml:lang="en">Section 10.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.03">
+    <oll:cite xml:lang="en">Section 10.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.04">
+    <oll:cite xml:lang="en">Section 10.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.05">
+    <oll:cite xml:lang="en">Section 10.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.06">
+    <oll:cite xml:lang="en">Section 10.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.07">
+    <oll:cite xml:lang="en">Section 10.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.08">
+    <oll:cite xml:lang="en">Section 10.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.09">
+    <oll:cite xml:lang="en">Section 10.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.10">
+    <oll:cite xml:lang="en">Section 10.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.11">
+    <oll:cite xml:lang="en">Section 10.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.12">
+    <oll:cite xml:lang="en">Section 10.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.13">
+    <oll:cite xml:lang="en">Section 10.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.14">
+    <oll:cite xml:lang="en">Section 10.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.15">
+    <oll:cite xml:lang="en">Section 10.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.16">
+    <oll:cite xml:lang="en">Section 10.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.17">
+    <oll:cite xml:lang="en">Section 10.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.18">
+    <oll:cite xml:lang="en">Section 10.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.19">
+    <oll:cite xml:lang="en">Section 10.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.20">
+    <oll:cite xml:lang="en">Section 10.20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.21">
+    <oll:cite xml:lang="en">Section 10.21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|10|10.21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#10.21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11">
+    <oll:cite xml:lang="en">CHAPTER 11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.01">
+    <oll:cite xml:lang="en">Section 11.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.02">
+    <oll:cite xml:lang="en">Section 11.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.03">
+    <oll:cite xml:lang="en">Section 11.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.04">
+    <oll:cite xml:lang="en">Section 11.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.05">
+    <oll:cite xml:lang="en">Section 11.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.06">
+    <oll:cite xml:lang="en">Section 11.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.07">
+    <oll:cite xml:lang="en">Section 11.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.08">
+    <oll:cite xml:lang="en">Section 11.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.09">
+    <oll:cite xml:lang="en">Section 11.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.10">
+    <oll:cite xml:lang="en">Section 11.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.11">
+    <oll:cite xml:lang="en">Section 11.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.12">
+    <oll:cite xml:lang="en">Section 11.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.13">
+    <oll:cite xml:lang="en">Section 11.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.14">
+    <oll:cite xml:lang="en">Section 11.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|11|11.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#11.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12">
+    <oll:cite xml:lang="en">CHAPTER 12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.01">
+    <oll:cite xml:lang="en">Section 12.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.02">
+    <oll:cite xml:lang="en">Section 12.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.03">
+    <oll:cite xml:lang="en">Section 12.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.04">
+    <oll:cite xml:lang="en">Section 12.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.05">
+    <oll:cite xml:lang="en">Section 12.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.06">
+    <oll:cite xml:lang="en">Section 12.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.07">
+    <oll:cite xml:lang="en">Section 12.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.08">
+    <oll:cite xml:lang="en">Section 12.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.09">
+    <oll:cite xml:lang="en">Section 12.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.10">
+    <oll:cite xml:lang="en">Section 12.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.11">
+    <oll:cite xml:lang="en">Section 12.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.12">
+    <oll:cite xml:lang="en">Section 12.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.13">
+    <oll:cite xml:lang="en">Section 12.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|12|12.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#12.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13">
+    <oll:cite xml:lang="en">CHAPTER 13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.01">
+    <oll:cite xml:lang="en">Section 13.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|13|13.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#13.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.02">
+    <oll:cite xml:lang="en">Section 13.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|13|13.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#13.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.03">
+    <oll:cite xml:lang="en">Section 13.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|13|13.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#13.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.04">
+    <oll:cite xml:lang="en">Section 13.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|13|13.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#13.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.05">
+    <oll:cite xml:lang="en">Section 13.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|13|13.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#13.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.06">
+    <oll:cite xml:lang="en">Section 13.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|13|13.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#13.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.07">
+    <oll:cite xml:lang="en">Section 13.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|13|13.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#13.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.08">
+    <oll:cite xml:lang="en">Section 13.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|13|13.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#13.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14">
+    <oll:cite xml:lang="en">CHAPTER 14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.01">
+    <oll:cite xml:lang="en">Section 14.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.02">
+    <oll:cite xml:lang="en">Section 14.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.03">
+    <oll:cite xml:lang="en">Section 14.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.04">
+    <oll:cite xml:lang="en">Section 14.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.05">
+    <oll:cite xml:lang="en">Section 14.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.06">
+    <oll:cite xml:lang="en">Section 14.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.07">
+    <oll:cite xml:lang="en">Section 14.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.08">
+    <oll:cite xml:lang="en">Section 14.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.09">
+    <oll:cite xml:lang="en">Section 14.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.10">
+    <oll:cite xml:lang="en">Section 14.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|14|14.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#14.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15">
+    <oll:cite xml:lang="en">CHAPTER 15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.01">
+    <oll:cite xml:lang="en">Section 15.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.02">
+    <oll:cite xml:lang="en">Section 15.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.03">
+    <oll:cite xml:lang="en">Section 15.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.04">
+    <oll:cite xml:lang="en">Section 15.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.05">
+    <oll:cite xml:lang="en">Section 15.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.06">
+    <oll:cite xml:lang="en">Section 15.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.07">
+    <oll:cite xml:lang="en">Section 15.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.08">
+    <oll:cite xml:lang="en">Section 15.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.09">
+    <oll:cite xml:lang="en">Section 15.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.10">
+    <oll:cite xml:lang="en">Section 15.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.11">
+    <oll:cite xml:lang="en">Section 15.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.12">
+    <oll:cite xml:lang="en">Section 15.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.13">
+    <oll:cite xml:lang="en">Section 15.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.14">
+    <oll:cite xml:lang="en">Section 15.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.15">
+    <oll:cite xml:lang="en">Section 15.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.16">
+    <oll:cite xml:lang="en">Section 15.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.17">
+    <oll:cite xml:lang="en">Section 15.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.18">
+    <oll:cite xml:lang="en">Section 15.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.19">
+    <oll:cite xml:lang="en">Section 15.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.20">
+    <oll:cite xml:lang="en">Section 15.20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.21">
+    <oll:cite xml:lang="en">Section 15.21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|15|15.21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#15.21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#2">
+    <oll:cite xml:lang="en">CHAPTER 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#2.01">
+    <oll:cite xml:lang="en">Section 2.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|2|2.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#2.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3">
+    <oll:cite xml:lang="en">CHAPTER 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.01">
+    <oll:cite xml:lang="en">Section 3.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.02">
+    <oll:cite xml:lang="en">Section 3.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.03">
+    <oll:cite xml:lang="en">Section 3.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.04">
+    <oll:cite xml:lang="en">Section 3.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.05">
+    <oll:cite xml:lang="en">Section 3.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.06">
+    <oll:cite xml:lang="en">Section 3.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.07">
+    <oll:cite xml:lang="en">Section 3.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.08">
+    <oll:cite xml:lang="en">Section 3.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.09">
+    <oll:cite xml:lang="en">Section 3.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.10">
+    <oll:cite xml:lang="en">Section 3.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.11">
+    <oll:cite xml:lang="en">Section 3.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.12">
+    <oll:cite xml:lang="en">Section 3.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.13">
+    <oll:cite xml:lang="en">Section 3.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.14">
+    <oll:cite xml:lang="en">Section 3.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.15">
+    <oll:cite xml:lang="en">Section 3.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.16">
+    <oll:cite xml:lang="en">Section 3.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.17">
+    <oll:cite xml:lang="en">Section 3.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.18">
+    <oll:cite xml:lang="en">Section 3.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.19">
+    <oll:cite xml:lang="en">Section 3.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.20">
+    <oll:cite xml:lang="en">Section 3.20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.21">
+    <oll:cite xml:lang="en">Section 3.21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.22">
+    <oll:cite xml:lang="en">Section 3.22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.23">
+    <oll:cite xml:lang="en">Section 3.23</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.23|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.23</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.24">
+    <oll:cite xml:lang="en">Section 3.24</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.24|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.25">
+    <oll:cite xml:lang="en">Section 3.25</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.25|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.25</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.26">
+    <oll:cite xml:lang="en">Section 3.26</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.26|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.26</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.27">
+    <oll:cite xml:lang="en">Section 3.27</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.27|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.27</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.28">
+    <oll:cite xml:lang="en">Section 3.28</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.28|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.28</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.29">
+    <oll:cite xml:lang="en">Section 3.29</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.29|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.29</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.30">
+    <oll:cite xml:lang="en">Section 3.30</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.30|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.30</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.31">
+    <oll:cite xml:lang="en">Section 3.31</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.31|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.31</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.32">
+    <oll:cite xml:lang="en">Section 3.32</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.32|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.32</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.33">
+    <oll:cite xml:lang="en">Section 3.33</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|3|3.33|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#3.33</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4">
+    <oll:cite xml:lang="en">CHAPTER 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.01">
+    <oll:cite xml:lang="en">Section 4.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.02">
+    <oll:cite xml:lang="en">Section 4.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.03">
+    <oll:cite xml:lang="en">Section 4.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.04">
+    <oll:cite xml:lang="en">Section 4.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.05">
+    <oll:cite xml:lang="en">Section 4.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.06">
+    <oll:cite xml:lang="en">Section 4.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.07">
+    <oll:cite xml:lang="en">Section 4.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.08">
+    <oll:cite xml:lang="en">Section 4.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.09">
+    <oll:cite xml:lang="en">Section 4.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.10">
+    <oll:cite xml:lang="en">Section 4.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.11">
+    <oll:cite xml:lang="en">Section 4.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.12">
+    <oll:cite xml:lang="en">Section 4.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.13">
+    <oll:cite xml:lang="en">Section 4.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.14">
+    <oll:cite xml:lang="en">Section 4.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.15">
+    <oll:cite xml:lang="en">Section 4.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|4|4.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#4.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5">
+    <oll:cite xml:lang="en">CHAPTER 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.01">
+    <oll:cite xml:lang="en">Section 5.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.02">
+    <oll:cite xml:lang="en">Section 5.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.03">
+    <oll:cite xml:lang="en">Section 5.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.04">
+    <oll:cite xml:lang="en">Section 5.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.05">
+    <oll:cite xml:lang="en">Section 5.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.06">
+    <oll:cite xml:lang="en">Section 5.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.07">
+    <oll:cite xml:lang="en">Section 5.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.08">
+    <oll:cite xml:lang="en">Section 5.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.09">
+    <oll:cite xml:lang="en">Section 5.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.10">
+    <oll:cite xml:lang="en">Section 5.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.11">
+    <oll:cite xml:lang="en">Section 5.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.12">
+    <oll:cite xml:lang="en">Section 5.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|5|5.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#5.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6">
+    <oll:cite xml:lang="en">CHAPTER 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.01">
+    <oll:cite xml:lang="en">Section 6.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.02">
+    <oll:cite xml:lang="en">Section 6.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.03">
+    <oll:cite xml:lang="en">Section 6.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.04">
+    <oll:cite xml:lang="en">Section 6.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.05">
+    <oll:cite xml:lang="en">Section 6.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.06">
+    <oll:cite xml:lang="en">Section 6.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.07">
+    <oll:cite xml:lang="en">Section 6.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.08">
+    <oll:cite xml:lang="en">Section 6.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.09">
+    <oll:cite xml:lang="en">Section 6.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.10">
+    <oll:cite xml:lang="en">Section 6.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.11">
+    <oll:cite xml:lang="en">Section 6.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.12">
+    <oll:cite xml:lang="en">Section 6.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.13">
+    <oll:cite xml:lang="en">Section 6.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.14">
+    <oll:cite xml:lang="en">Section 6.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.15">
+    <oll:cite xml:lang="en">Section 6.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.16">
+    <oll:cite xml:lang="en">Section 6.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.17">
+    <oll:cite xml:lang="en">Section 6.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.18">
+    <oll:cite xml:lang="en">Section 6.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.19">
+    <oll:cite xml:lang="en">Section 6.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.20">
+    <oll:cite xml:lang="en">Section 6.20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.21">
+    <oll:cite xml:lang="en">Section 6.21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.22">
+    <oll:cite xml:lang="en">Section 6.22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.23">
+    <oll:cite xml:lang="en">Section 6.23</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.23|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.23</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.24">
+    <oll:cite xml:lang="en">Section 6.24</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.24|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.25">
+    <oll:cite xml:lang="en">Section 6.25</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.25|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.25</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.26">
+    <oll:cite xml:lang="en">Section 6.26</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.26|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.26</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.27">
+    <oll:cite xml:lang="en">Section 6.27</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|6|6.27|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#6.27</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7">
+    <oll:cite xml:lang="en">CHAPTER 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.01">
+    <oll:cite xml:lang="en">Section 7.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.02">
+    <oll:cite xml:lang="en">Section 7.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.03">
+    <oll:cite xml:lang="en">Section 7.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.04">
+    <oll:cite xml:lang="en">Section 7.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.05">
+    <oll:cite xml:lang="en">Section 7.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.06">
+    <oll:cite xml:lang="en">Section 7.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.07">
+    <oll:cite xml:lang="en">Section 7.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.08">
+    <oll:cite xml:lang="en">Section 7.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.09">
+    <oll:cite xml:lang="en">Section 7.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.10">
+    <oll:cite xml:lang="en">Section 7.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.11">
+    <oll:cite xml:lang="en">Section 7.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.12">
+    <oll:cite xml:lang="en">Section 7.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.13">
+    <oll:cite xml:lang="en">Section 7.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.14">
+    <oll:cite xml:lang="en">Section 7.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.15">
+    <oll:cite xml:lang="en">Section 7.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.16">
+    <oll:cite xml:lang="en">Section 7.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.17">
+    <oll:cite xml:lang="en">Section 7.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.18">
+    <oll:cite xml:lang="en">Section 7.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.19">
+    <oll:cite xml:lang="en">Section 7.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.20">
+    <oll:cite xml:lang="en">Section 7.20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.21">
+    <oll:cite xml:lang="en">Section 7.21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.22">
+    <oll:cite xml:lang="en">Section 7.22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.23">
+    <oll:cite xml:lang="en">Section 7.23</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.23|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.23</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.24">
+    <oll:cite xml:lang="en">Section 7.24</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.24|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.25">
+    <oll:cite xml:lang="en">Section 7.25</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.25|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.25</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.26">
+    <oll:cite xml:lang="en">Section 7.26</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.26|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.26</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.27">
+    <oll:cite xml:lang="en">Section 7.27</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|7|7.27|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#7.27</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8">
+    <oll:cite xml:lang="en">CHAPTER 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.01">
+    <oll:cite xml:lang="en">Section 8.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.02">
+    <oll:cite xml:lang="en">Section 8.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.03">
+    <oll:cite xml:lang="en">Section 8.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.04">
+    <oll:cite xml:lang="en">Section 8.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.05">
+    <oll:cite xml:lang="en">Section 8.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.06">
+    <oll:cite xml:lang="en">Section 8.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.07">
+    <oll:cite xml:lang="en">Section 8.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.08">
+    <oll:cite xml:lang="en">Section 8.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.09">
+    <oll:cite xml:lang="en">Section 8.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.10">
+    <oll:cite xml:lang="en">Section 8.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.11">
+    <oll:cite xml:lang="en">Section 8.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.12">
+    <oll:cite xml:lang="en">Section 8.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.13">
+    <oll:cite xml:lang="en">Section 8.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.14">
+    <oll:cite xml:lang="en">Section 8.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.15">
+    <oll:cite xml:lang="en">Section 8.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.16">
+    <oll:cite xml:lang="en">Section 8.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.17">
+    <oll:cite xml:lang="en">Section 8.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.18">
+    <oll:cite xml:lang="en">Section 8.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.19">
+    <oll:cite xml:lang="en">Section 8.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.20">
+    <oll:cite xml:lang="en">Section 8.20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.21">
+    <oll:cite xml:lang="en">Section 8.21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.22">
+    <oll:cite xml:lang="en">Section 8.22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.23">
+    <oll:cite xml:lang="en">Section 8.23</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.23|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.23</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.24">
+    <oll:cite xml:lang="en">Section 8.24</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.24|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.25">
+    <oll:cite xml:lang="en">Section 8.25</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.25|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.25</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.26">
+    <oll:cite xml:lang="en">Section 8.26</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.26|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.26</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.27">
+    <oll:cite xml:lang="en">Section 8.27</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|8|8.27|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#8.27</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9">
+    <oll:cite xml:lang="en">CHAPTER 9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.01">
+    <oll:cite xml:lang="en">Section 9.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.02">
+    <oll:cite xml:lang="en">Section 9.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.03">
+    <oll:cite xml:lang="en">Section 9.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.04">
+    <oll:cite xml:lang="en">Section 9.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.05">
+    <oll:cite xml:lang="en">Section 9.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.06">
+    <oll:cite xml:lang="en">Section 9.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.07">
+    <oll:cite xml:lang="en">Section 9.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.08">
+    <oll:cite xml:lang="en">Section 9.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.09">
+    <oll:cite xml:lang="en">Section 9.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.10">
+    <oll:cite xml:lang="en">Section 9.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.11">
+    <oll:cite xml:lang="en">Section 9.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.12">
+    <oll:cite xml:lang="en">Section 9.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.13">
+    <oll:cite xml:lang="en">Section 9.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.14">
+    <oll:cite xml:lang="en">Section 9.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.15">
+    <oll:cite xml:lang="en">Section 9.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.16">
+    <oll:cite xml:lang="en">Section 9.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.17">
+    <oll:cite xml:lang="en">Section 9.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.18">
+    <oll:cite xml:lang="en">Section 9.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.19">
+    <oll:cite xml:lang="en">Section 9.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.20">
+    <oll:cite xml:lang="en">Section 9.20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.21">
+    <oll:cite xml:lang="en">Section 9.21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.22">
+    <oll:cite xml:lang="en">Section 9.22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.23">
+    <oll:cite xml:lang="en">Section 9.23</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.23|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.23</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.24">
+    <oll:cite xml:lang="en">Section 9.24</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.24|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.25">
+    <oll:cite xml:lang="en">Section 9.25</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.25|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.25</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.26">
+    <oll:cite xml:lang="en">Section 9.26</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.26|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.26</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.27">
+    <oll:cite xml:lang="en">Section 9.27</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Off-Reservation Conservation Code of The Bad River Band of Lake Superior Chippewa|9|9.27|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/off-reservation-code#9.27</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code/_changes">
+    <rdf:_100 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.17"/>
+    <rdf:_101 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.18"/>
+    <rdf:_102 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.19"/>
+    <rdf:_103 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.20"/>
+    <rdf:_104 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.21"/>
+    <rdf:_105 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#2"/>
+    <rdf:_106 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#2.01"/>
+    <rdf:_107 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3"/>
+    <rdf:_108 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.01"/>
+    <rdf:_109 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.02"/>
+    <rdf:_10 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.08"/>
+    <rdf:_110 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.03"/>
+    <rdf:_111 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.04"/>
+    <rdf:_112 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.05"/>
+    <rdf:_113 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.06"/>
+    <rdf:_114 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.07"/>
+    <rdf:_115 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.08"/>
+    <rdf:_116 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.09"/>
+    <rdf:_117 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.10"/>
+    <rdf:_118 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.11"/>
+    <rdf:_119 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.12"/>
+    <rdf:_11 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.09"/>
+    <rdf:_120 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.13"/>
+    <rdf:_121 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.14"/>
+    <rdf:_122 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.15"/>
+    <rdf:_123 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.16"/>
+    <rdf:_124 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.17"/>
+    <rdf:_125 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.18"/>
+    <rdf:_126 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.19"/>
+    <rdf:_127 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.20"/>
+    <rdf:_128 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.21"/>
+    <rdf:_129 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.22"/>
+    <rdf:_12 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10"/>
+    <rdf:_130 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.23"/>
+    <rdf:_131 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.24"/>
+    <rdf:_132 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.25"/>
+    <rdf:_133 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.26"/>
+    <rdf:_134 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.27"/>
+    <rdf:_135 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.28"/>
+    <rdf:_136 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.29"/>
+    <rdf:_137 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.30"/>
+    <rdf:_138 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.31"/>
+    <rdf:_139 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.32"/>
+    <rdf:_13 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.01"/>
+    <rdf:_140 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#3.33"/>
+    <rdf:_141 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4"/>
+    <rdf:_142 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.01"/>
+    <rdf:_143 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.02"/>
+    <rdf:_144 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.03"/>
+    <rdf:_145 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.04"/>
+    <rdf:_146 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.05"/>
+    <rdf:_147 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.06"/>
+    <rdf:_148 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.07"/>
+    <rdf:_149 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.08"/>
+    <rdf:_14 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.02"/>
+    <rdf:_150 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.09"/>
+    <rdf:_151 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.10"/>
+    <rdf:_152 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.11"/>
+    <rdf:_153 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.12"/>
+    <rdf:_154 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.13"/>
+    <rdf:_155 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.14"/>
+    <rdf:_156 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#4.15"/>
+    <rdf:_157 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5"/>
+    <rdf:_158 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.01"/>
+    <rdf:_159 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.02"/>
+    <rdf:_15 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.03"/>
+    <rdf:_160 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.03"/>
+    <rdf:_161 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.04"/>
+    <rdf:_162 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.05"/>
+    <rdf:_163 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.06"/>
+    <rdf:_164 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.07"/>
+    <rdf:_165 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.08"/>
+    <rdf:_166 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.09"/>
+    <rdf:_167 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.10"/>
+    <rdf:_168 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.11"/>
+    <rdf:_169 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#5.12"/>
+    <rdf:_16 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.04"/>
+    <rdf:_170 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6"/>
+    <rdf:_171 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.01"/>
+    <rdf:_172 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.02"/>
+    <rdf:_173 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.03"/>
+    <rdf:_174 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.04"/>
+    <rdf:_175 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.05"/>
+    <rdf:_176 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.06"/>
+    <rdf:_177 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.07"/>
+    <rdf:_178 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.08"/>
+    <rdf:_179 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.09"/>
+    <rdf:_17 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.05"/>
+    <rdf:_180 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.10"/>
+    <rdf:_181 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.11"/>
+    <rdf:_182 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.12"/>
+    <rdf:_183 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.13"/>
+    <rdf:_184 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.14"/>
+    <rdf:_185 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.15"/>
+    <rdf:_186 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.16"/>
+    <rdf:_187 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.17"/>
+    <rdf:_188 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.18"/>
+    <rdf:_189 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.19"/>
+    <rdf:_18 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.06"/>
+    <rdf:_190 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.20"/>
+    <rdf:_191 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.21"/>
+    <rdf:_192 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.22"/>
+    <rdf:_193 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.23"/>
+    <rdf:_194 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.24"/>
+    <rdf:_195 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.25"/>
+    <rdf:_196 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.26"/>
+    <rdf:_197 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#6.27"/>
+    <rdf:_198 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7"/>
+    <rdf:_199 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.01"/>
+    <rdf:_19 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.07"/>
+    <rdf:_1 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code"/>
+    <rdf:_200 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.02"/>
+    <rdf:_201 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.03"/>
+    <rdf:_202 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.04"/>
+    <rdf:_203 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.05"/>
+    <rdf:_204 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.06"/>
+    <rdf:_205 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.07"/>
+    <rdf:_206 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.08"/>
+    <rdf:_207 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.09"/>
+    <rdf:_208 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.10"/>
+    <rdf:_209 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.11"/>
+    <rdf:_20 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.08"/>
+    <rdf:_210 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.12"/>
+    <rdf:_211 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.13"/>
+    <rdf:_212 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.14"/>
+    <rdf:_213 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.15"/>
+    <rdf:_214 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.16"/>
+    <rdf:_215 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.17"/>
+    <rdf:_216 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.18"/>
+    <rdf:_217 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.19"/>
+    <rdf:_218 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.20"/>
+    <rdf:_219 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.21"/>
+    <rdf:_21 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.09"/>
+    <rdf:_220 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.22"/>
+    <rdf:_221 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.23"/>
+    <rdf:_222 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.24"/>
+    <rdf:_223 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.25"/>
+    <rdf:_224 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.26"/>
+    <rdf:_225 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#7.27"/>
+    <rdf:_226 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8"/>
+    <rdf:_227 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.01"/>
+    <rdf:_228 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.02"/>
+    <rdf:_229 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.03"/>
+    <rdf:_22 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.10"/>
+    <rdf:_230 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.04"/>
+    <rdf:_231 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.05"/>
+    <rdf:_232 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.06"/>
+    <rdf:_233 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.07"/>
+    <rdf:_234 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.08"/>
+    <rdf:_235 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.09"/>
+    <rdf:_236 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.10"/>
+    <rdf:_237 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.11"/>
+    <rdf:_238 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.12"/>
+    <rdf:_239 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.13"/>
+    <rdf:_23 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.11"/>
+    <rdf:_240 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.14"/>
+    <rdf:_241 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.15"/>
+    <rdf:_242 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.16"/>
+    <rdf:_243 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.17"/>
+    <rdf:_244 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.18"/>
+    <rdf:_245 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.19"/>
+    <rdf:_246 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.20"/>
+    <rdf:_247 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.21"/>
+    <rdf:_248 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.22"/>
+    <rdf:_249 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.23"/>
+    <rdf:_24 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.12"/>
+    <rdf:_250 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.24"/>
+    <rdf:_251 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.25"/>
+    <rdf:_252 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.26"/>
+    <rdf:_253 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#8.27"/>
+    <rdf:_254 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9"/>
+    <rdf:_255 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.01"/>
+    <rdf:_256 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.02"/>
+    <rdf:_257 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.03"/>
+    <rdf:_258 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.04"/>
+    <rdf:_259 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.05"/>
+    <rdf:_25 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.13"/>
+    <rdf:_260 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.06"/>
+    <rdf:_261 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.07"/>
+    <rdf:_262 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.08"/>
+    <rdf:_263 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.09"/>
+    <rdf:_264 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.10"/>
+    <rdf:_265 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.11"/>
+    <rdf:_266 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.12"/>
+    <rdf:_267 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.13"/>
+    <rdf:_268 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.14"/>
+    <rdf:_269 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.15"/>
+    <rdf:_26 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.14"/>
+    <rdf:_270 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.16"/>
+    <rdf:_271 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.17"/>
+    <rdf:_272 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.18"/>
+    <rdf:_273 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.19"/>
+    <rdf:_274 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.20"/>
+    <rdf:_275 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.21"/>
+    <rdf:_276 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.22"/>
+    <rdf:_277 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.23"/>
+    <rdf:_278 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.24"/>
+    <rdf:_279 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.25"/>
+    <rdf:_27 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.15"/>
+    <rdf:_280 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.26"/>
+    <rdf:_281 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#9.27"/>
+    <rdf:_28 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.16"/>
+    <rdf:_29 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.17"/>
+    <rdf:_2 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1"/>
+    <rdf:_30 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.18"/>
+    <rdf:_31 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.19"/>
+    <rdf:_32 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.20"/>
+    <rdf:_33 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#10.21"/>
+    <rdf:_34 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11"/>
+    <rdf:_35 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.01"/>
+    <rdf:_36 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.02"/>
+    <rdf:_37 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.03"/>
+    <rdf:_38 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.04"/>
+    <rdf:_39 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.05"/>
+    <rdf:_3 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.01"/>
+    <rdf:_40 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.06"/>
+    <rdf:_41 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.07"/>
+    <rdf:_42 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.08"/>
+    <rdf:_43 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.09"/>
+    <rdf:_44 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.10"/>
+    <rdf:_45 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.11"/>
+    <rdf:_46 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.12"/>
+    <rdf:_47 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.13"/>
+    <rdf:_48 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#11.14"/>
+    <rdf:_49 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12"/>
+    <rdf:_4 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.02"/>
+    <rdf:_50 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.01"/>
+    <rdf:_51 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.02"/>
+    <rdf:_52 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.03"/>
+    <rdf:_53 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.04"/>
+    <rdf:_54 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.05"/>
+    <rdf:_55 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.06"/>
+    <rdf:_56 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.07"/>
+    <rdf:_57 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.08"/>
+    <rdf:_58 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.09"/>
+    <rdf:_59 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.10"/>
+    <rdf:_5 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.03"/>
+    <rdf:_60 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.11"/>
+    <rdf:_61 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.12"/>
+    <rdf:_62 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#12.13"/>
+    <rdf:_63 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13"/>
+    <rdf:_64 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.01"/>
+    <rdf:_65 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.02"/>
+    <rdf:_66 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.03"/>
+    <rdf:_67 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.04"/>
+    <rdf:_68 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.05"/>
+    <rdf:_69 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.06"/>
+    <rdf:_6 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.04"/>
+    <rdf:_70 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.07"/>
+    <rdf:_71 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#13.08"/>
+    <rdf:_72 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14"/>
+    <rdf:_73 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.01"/>
+    <rdf:_74 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.02"/>
+    <rdf:_75 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.03"/>
+    <rdf:_76 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.04"/>
+    <rdf:_77 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.05"/>
+    <rdf:_78 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.06"/>
+    <rdf:_79 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.07"/>
+    <rdf:_7 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.05"/>
+    <rdf:_80 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.08"/>
+    <rdf:_81 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.09"/>
+    <rdf:_82 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#14.10"/>
+    <rdf:_83 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15"/>
+    <rdf:_84 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.01"/>
+    <rdf:_85 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.02"/>
+    <rdf:_86 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.03"/>
+    <rdf:_87 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.04"/>
+    <rdf:_88 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.05"/>
+    <rdf:_89 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.06"/>
+    <rdf:_8 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.06"/>
+    <rdf:_90 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.07"/>
+    <rdf:_91 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.08"/>
+    <rdf:_92 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.09"/>
+    <rdf:_93 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.10"/>
+    <rdf:_94 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.11"/>
+    <rdf:_95 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.12"/>
+    <rdf:_96 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.13"/>
+    <rdf:_97 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.14"/>
+    <rdf:_98 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.15"/>
+    <rdf:_99 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#15.16"/>
+    <rdf:_9 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code#1.07"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

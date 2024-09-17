@@ -1,0 +1,423 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="./_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-08-01</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-08-01//us/nsn/badriver/council/constitution"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Article I Territory and Jurisdiction
+Article II Membership
+Article III Governing Body
+Article IV Elections
+Article V
+Article VI Powers
+Article VII Referendum
+Article VIII Lands
+Article IX Amendments
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-08-01/2024-02-13]: Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin</rdfs:label>
+    <oll:codifiedDate>2024-02-13</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1978-03-08</oll:dateEffective>
+    <oll:docId>Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-08-01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#I">
+    <oll:cite xml:lang="en">Article I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#I/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|I|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#I/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#I/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|I|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#I/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II">
+    <oll:cite xml:lang="en">Article II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|II|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#II/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|II|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#II/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|II|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#II/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|II|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#II/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|II|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#II/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|II|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#II/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III">
+    <oll:cite xml:lang="en">Article III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|III|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#III/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|III|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#III/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|III|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#III/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|III|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#III/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|III|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#III/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IV">
+    <oll:cite xml:lang="en">Article IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IV/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|IV|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#IV/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IV/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|IV|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#IV/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IX">
+    <oll:cite xml:lang="en">Article IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IX/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|IX|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#IX/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V">
+    <oll:cite xml:lang="en">Article V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|V|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#V/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|V|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#V/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|V|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#V/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|V|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#V/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI">
+    <oll:cite xml:lang="en">Article VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VI|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VI/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VI|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VI/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VI|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VI/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VI|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VI/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VII">
+    <oll:cite xml:lang="en">Article VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VII/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VII|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VII/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII">
+    <oll:cite xml:lang="en">Article VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/10">
+    <oll:cite xml:lang="en">Section 10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/11">
+    <oll:cite xml:lang="en">Section 11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/12">
+    <oll:cite xml:lang="en">Section 12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/13">
+    <oll:cite xml:lang="en">Section 13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/14">
+    <oll:cite xml:lang="en">Section 14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/7">
+    <oll:cite xml:lang="en">Section 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/8">
+    <oll:cite xml:lang="en">Section 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/9">
+    <oll:cite xml:lang="en">Section 9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin|VIII|9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/constitution#VIII/9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution/_changes">
+    <rdf:_10 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/5"/>
+    <rdf:_11 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/6"/>
+    <rdf:_12 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III"/>
+    <rdf:_13 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/1"/>
+    <rdf:_14 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/2"/>
+    <rdf:_15 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/3"/>
+    <rdf:_16 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/4"/>
+    <rdf:_17 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#III/5"/>
+    <rdf:_18 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IV"/>
+    <rdf:_19 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IV/1"/>
+    <rdf:_1 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution"/>
+    <rdf:_20 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IV/2"/>
+    <rdf:_21 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IX"/>
+    <rdf:_22 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#IX/1"/>
+    <rdf:_23 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V"/>
+    <rdf:_24 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V/1"/>
+    <rdf:_25 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V/2"/>
+    <rdf:_26 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V/3"/>
+    <rdf:_27 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#V/4"/>
+    <rdf:_28 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI"/>
+    <rdf:_29 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI/1"/>
+    <rdf:_2 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#I"/>
+    <rdf:_30 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI/2"/>
+    <rdf:_31 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI/3"/>
+    <rdf:_32 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VI/4"/>
+    <rdf:_33 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VII"/>
+    <rdf:_34 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VII/1"/>
+    <rdf:_35 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII"/>
+    <rdf:_36 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/1"/>
+    <rdf:_37 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/10"/>
+    <rdf:_38 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/11"/>
+    <rdf:_39 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/12"/>
+    <rdf:_3 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#I/1"/>
+    <rdf:_40 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/13"/>
+    <rdf:_41 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/14"/>
+    <rdf:_42 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/2"/>
+    <rdf:_43 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/3"/>
+    <rdf:_44 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/4"/>
+    <rdf:_45 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/5"/>
+    <rdf:_46 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/6"/>
+    <rdf:_47 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/7"/>
+    <rdf:_48 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/8"/>
+    <rdf:_49 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#VIII/9"/>
+    <rdf:_4 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#I/2"/>
+    <rdf:_5 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II"/>
+    <rdf:_6 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/1"/>
+    <rdf:_7 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/2"/>
+    <rdf:_8 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/3"/>
+    <rdf:_9 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/constitution#II/4"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

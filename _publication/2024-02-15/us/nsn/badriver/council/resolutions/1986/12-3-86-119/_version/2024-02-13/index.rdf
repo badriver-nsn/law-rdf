@@ -1,0 +1,30 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="./_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/resolutions/1986/12-3-86-119">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-15</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="us/nsn/badriver/council/resolutions/1986/12-3-86-119/us/nsn/badriver/council/resolutions/1986/adopted/12-3-86-119.pdf"/>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-02-15//us/nsn/badriver/council/resolutions/1986/12-3-86-119"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-3-86-119. Untitled.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2024-02-15/2024-02-13]: Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-3-86-119</rdfs:label>
+    <oll:codifiedDate>2024-02-13</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1986-12-03</oll:dateEffective>
+    <oll:docId>Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-3-86-119</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/resolutions/1986/12-3-86-119/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-02-15"/>
+    <oll:number>12-3-86-119</oll:number>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/resolutions/1986/12-3-86-119">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-3-86-119|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/badriver/council/resolutions/1986/12-3-86-119</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/resolutions/1986/12-3-86-119/_changes">
+    <rdf:_1 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/resolutions/1986/12-3-86-119"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
