@@ -1,9 +1,9 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="./_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03">
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-08-02</dcterms:available>
     <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
-    <dcterms:hasFormat rdf:resource="us/nsn/badriver/council/resolutions/2024/2-13-24-03/us/nsn/badriver/council/resolutions/2024/adopted/2-13-24-03.pdf"/>
-    <dcterms:isVersionOf rdf:resource="./_publication/2024-08-02//us/nsn/badriver/council/resolutions/2024/2-13-24-03"/>
+    <dcterms:hasFormat rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2024/2-13-24-03/us/nsn/badriver/council/resolutions/2024/adopted/2-13-24-03.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-02/us/nsn/badriver/council/resolutions/2024/2-13-24-03"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-13-24-03. ADOPTING THE BAD RIVER BAND OF LAKE SUPERIOR CHIPPEWA INDIANS LAW LIBRARY.</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
@@ -11,48 +11,46 @@
     <rdfs:label xml:lang="en">[2024-08-02/2024-02-13]: Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-13-24-03</rdfs:label>
     <oll:buildReason xml:lang="en">created</oll:buildReason>
     <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
     <oll:codifiedDate>2024-02-13</oll:codifiedDate>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-13</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-13</oll:dateEffective>
     <oll:docId>Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-13-24-03</oll:docId>
-    <oll:hasChanges rdf:resource="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03/_changes"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-08-02"/>
-    <oll:number>2-13-24-03</oll:number>
-  </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03">
-    <oll:cite xml:lang="en"/>
     <oll:documentMaterializedPath xml:lang="en">Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-13-24-03|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-02"/>
+    <oll:number>2-13-24-03</oll:number>
     <oll:ptag xml:lang="en">document</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:status xml:lang="en">Element effective</oll:status>
     <oll:url xml:lang="en">/us/nsn/badriver/council/resolutions/2024/2-13-24-03</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(1)">
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(1)">
     <oll:cite xml:lang="en">Section (1)</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-13-24-03|(1)|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(1)</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(2)">
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(2)">
     <oll:cite xml:lang="en">Section (2)</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-13-24-03|(2)|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(2)</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(3)">
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(3)">
     <oll:cite xml:lang="en">Section (3)</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-13-24-03|(3)|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(3)</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03/_changes">
-    <rdf:_1 rdf:resource="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03"/>
-    <rdf:_2 rdf:resource="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(1)"/>
-    <rdf:_3 rdf:resource="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(2)"/>
-    <rdf:_4 rdf:resource="_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(3)"/>
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03/_changes">
+    <rdf:_1 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03"/>
+    <rdf:_2 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(1)"/>
+    <rdf:_3 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(2)"/>
+    <rdf:_4 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-02/_date/2024-02-13/us/nsn/badriver/council/resolutions/2024/2-13-24-03#(3)"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>

@@ -1,34 +1,34 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="././_publication/2024-02-15/_date/2024-02-13">
-    <dcterms:isVersionOf rdf:resource="./_publication/2024-02-15"/>
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13">
+    <dcterms:isVersionOf rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
     <rdfs:label xml:lang="en">Bad River Band of the Lake Superior Chippewa Indians Law Library</rdfs:label>
     <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-13</oll:codifiedDate>
-    <oll:hasChanges rdf:resource="_publication/2024-02-15/_date/2024-02-13/_changes"/>
-    <oll:hasElements rdf:resource="_publication/2024-02-15/_date/2024-02-13/_elements"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-02-15"/>
+    <oll:hasChanges rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/_changes"/>
+    <oll:hasElements rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15"/>
     <oll:libraryMaterializedPath xml:lang="en">badriver-nsn/law-rdf|</oll:libraryMaterializedPath>
     <oll:ptag xml:lang="en">collection</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/_changes">
-    <rdf:_1 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/constitution-and-bylaws"/>
-    <rdf:_2 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/resolutions"/>
-    <rdf:_3 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/code"/>
-    <rdf:_4 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/charter"/>
-    <rdf:_5 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/fishing-agreement"/>
-    <rdf:_6 rdf:resource="_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code"/>
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/_changes">
+    <rdf:_1 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/constitution-and-bylaws"/>
+    <rdf:_2 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/resolutions"/>
+    <rdf:_3 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/code"/>
+    <rdf:_4 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/charter"/>
+    <rdf:_5 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/fishing-agreement"/>
+    <rdf:_6 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/us/nsn/badriver/council/off-reservation-code"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-02-15/_date/2024-02-13/_elements">
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-02-15/_date/2024-02-13/_elements">
     <rdf:_1 xml:lang="en">Bad River Band of the Lake Superior Chippewa Indians Law Library</rdf:_1>
-    <rdf:_2 rdf:resource="us/nsn/badriver/council/constitution-and-bylaws"/>
-    <rdf:_3 rdf:resource="us/nsn/badriver/council/charter"/>
-    <rdf:_4 rdf:resource="us/nsn/badriver/council/code"/>
-    <rdf:_5 rdf:resource="us/nsn/badriver/council/resolutions"/>
-    <rdf:_6 rdf:resource="us/nsn/badriver/council/off-reservation-code"/>
-    <rdf:_7 rdf:resource="us/nsn/badriver/council/fishing-agreement"/>
+    <rdf:_2 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/constitution-and-bylaws"/>
+    <rdf:_3 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/charter"/>
+    <rdf:_4 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/code"/>
+    <rdf:_5 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions"/>
+    <rdf:_6 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/off-reservation-code"/>
+    <rdf:_7 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/fishing-agreement"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
   </rdf:Description>
 </rdf:RDF>

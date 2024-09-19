@@ -1,41 +1,41 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="././_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010">
-    <dcterms:isVersionOf rdf:resource="./_publication/2024-08-01/us/nsn/badriver/council/resolutions/2010"/>
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010">
+    <dcterms:isVersionOf rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/us/nsn/badriver/council/resolutions/2010"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
     <rdfs:label xml:lang="en">2010 Resolutions</rdfs:label>
     <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-13</oll:codifiedDate>
-    <oll:hasChanges rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/_changes"/>
-    <oll:hasElements rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/_elements"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-08-01"/>
+    <oll:hasChanges rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/_changes"/>
+    <oll:hasElements rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01"/>
     <oll:libraryMaterializedPath xml:lang="en">badriver-nsn/law-rdf|us/nsn/badriver/council/resolutions|2010|</oll:libraryMaterializedPath>
     <oll:name xml:lang="en">2010</oll:name>
     <oll:ptag xml:lang="en">collection</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/us/nsn/badriver/council/resolutions/2010</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/_changes">
-    <rdf:_1 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/1-13-10-151"/>
-    <rdf:_2 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/10-06-10-293"/>
-    <rdf:_3 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/11-18-10-316"/>
-    <rdf:_4 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/11-18-10-318"/>
-    <rdf:_5 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/11-3-10-304"/>
-    <rdf:_6 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/11-3-10-305"/>
-    <rdf:_7 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/3-3-10-173"/>
-    <rdf:_8 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/5-5-10-194"/>
-    <rdf:_9 rdf:resource="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/6-2-10-227"/>
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/_changes">
+    <rdf:_1 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/1-13-10-151"/>
+    <rdf:_2 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/10-06-10-293"/>
+    <rdf:_3 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/11-18-10-316"/>
+    <rdf:_4 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/11-18-10-318"/>
+    <rdf:_5 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/11-3-10-304"/>
+    <rdf:_6 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/11-3-10-305"/>
+    <rdf:_7 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/3-3-10-173"/>
+    <rdf:_8 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/5-5-10-194"/>
+    <rdf:_9 rdf:resource="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/6-2-10-227"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/_elements">
-    <rdf:_10 rdf:resource="us/nsn/badriver/council/resolutions/2010/1-13-10-151"/>
+  <rdf:Description rdf:about="https://law.badriver-nsn.gov/_publication/2024-08-01/_date/2024-02-13/us/nsn/badriver/council/resolutions/2010/_elements">
+    <rdf:_10 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2010/1-13-10-151"/>
     <rdf:_1 xml:lang="en">2010 Resolutions</rdf:_1>
-    <rdf:_2 rdf:resource="us/nsn/badriver/council/resolutions/2010/11-18-10-318"/>
-    <rdf:_3 rdf:resource="us/nsn/badriver/council/resolutions/2010/11-18-10-316"/>
-    <rdf:_4 rdf:resource="us/nsn/badriver/council/resolutions/2010/11-3-10-305"/>
-    <rdf:_5 rdf:resource="us/nsn/badriver/council/resolutions/2010/11-3-10-304"/>
-    <rdf:_6 rdf:resource="us/nsn/badriver/council/resolutions/2010/10-06-10-293"/>
-    <rdf:_7 rdf:resource="us/nsn/badriver/council/resolutions/2010/6-2-10-227"/>
-    <rdf:_8 rdf:resource="us/nsn/badriver/council/resolutions/2010/5-5-10-194"/>
-    <rdf:_9 rdf:resource="us/nsn/badriver/council/resolutions/2010/3-3-10-173"/>
+    <rdf:_2 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2010/11-18-10-318"/>
+    <rdf:_3 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2010/11-18-10-316"/>
+    <rdf:_4 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2010/11-3-10-305"/>
+    <rdf:_5 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2010/11-3-10-304"/>
+    <rdf:_6 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2010/10-06-10-293"/>
+    <rdf:_7 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2010/6-2-10-227"/>
+    <rdf:_8 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2010/5-5-10-194"/>
+    <rdf:_9 rdf:resource="https://law.badriver-nsn.gov/us/nsn/badriver/council/resolutions/2010/3-3-10-173"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
   </rdf:Description>
 </rdf:RDF>
